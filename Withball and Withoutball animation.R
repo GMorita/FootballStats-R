@@ -199,3 +199,4 @@ Aanim <- Hp + transition_states(State,
 Hanim
 
 anim_save("MexicoBrazil.gif")
+anim_save("BrazilMexico.gif")
